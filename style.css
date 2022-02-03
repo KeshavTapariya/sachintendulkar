@@ -83,8 +83,14 @@ p{
     padding-right: 20px;
 }
 .links:hover{color: blanchedalmond;}
-    
-
+.arcticle{
+    font-size: 80px;
+    text-decoration: none;
+}
+.arcticle:hover{ font-size: 100px;}   
+html{
+    scroll-behavior: smooth;
+}
     
 
 
